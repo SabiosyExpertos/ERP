@@ -1,0 +1,112 @@
+C:\Users\josue\source\repos\Diseños\Diseños\bin\Diseños.dll.config
+C:\Users\josue\source\repos\Diseños\Diseños\bin\Diseños.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\Diseños.pdb
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\csc.exe
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\csc.exe.config
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\csc.rsp
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\csi.exe
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\csi.exe.config
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\csi.rsp
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.AppContext.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Console.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.IO.Compression.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.IO.Pipes.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Security.Claims.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.ValueTuple.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Xml.XPath.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\vbc.exe
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\vbc.exe.config
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\vbc.rsp
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\VBCSCompiler.exe
+C:\Users\josue\source\repos\Diseños\Diseños\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\josue\source\repos\Diseños\Diseños\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\josue\source\repos\Diseños\Diseños\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\josue\source\repos\Diseños\Diseños\obj\Debug\Diseños.csprojAssemblyReference.cache
+C:\Users\josue\source\repos\Diseños\Diseños\obj\Debug\Diseños.csproj.CoreCompileInputs.cache
+C:\Users\josue\source\repos\Diseños\Diseños\obj\Debug\Diseños.csproj.CopyComplete
+C:\Users\josue\source\repos\Diseños\Diseños\obj\Debug\Diseños.dll
+C:\Users\josue\source\repos\Diseños\Diseños\obj\Debug\Diseños.pdb
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\Diseños.dll.config
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\Diseños.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\Diseños.pdb
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\csc.exe
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\csc.exe.config
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\csc.rsp
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\csi.exe
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\csi.exe.config
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\csi.rsp
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.AppContext.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Collections.Immutable.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Console.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.IO.Compression.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.IO.FileSystem.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.IO.Pipes.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Reflection.Metadata.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Security.AccessControl.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Security.Claims.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.ValueTuple.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Xml.XPath.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\vbc.exe
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\vbc.exe.config
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\vbc.rsp
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\VBCSCompiler.exe
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\roslyn\VBCSCompiler.exe.config
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\obj\Debug\Diseños.csprojAssemblyReference.cache
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\obj\Debug\Diseños.csproj.CoreCompileInputs.cache
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\obj\Debug\Diseños.csproj.CopyComplete
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\obj\Debug\Diseños.dll
+D:\ALL_DATA\UJMD\Ciclo7\DCA0\Avance Nuestro\Diseños\Diseños\obj\Debug\Diseños.pdb
