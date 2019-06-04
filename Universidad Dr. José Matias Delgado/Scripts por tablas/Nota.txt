@@ -1,0 +1,9 @@
+INSTRUCCIONES
+
+*En ese orden se deben crear para que no de problema por las llaves foraneas.
+
+*El nombre de la base de datos es ERPsye
+
+*Es mejor usar el archivo .bak que se ha proporcionado para la restauración de la base de datos, sin embargo, también se puede hacer uso de los scripts
+
+*Se ha trabajado con SQL SERVER 2017
